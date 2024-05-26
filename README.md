@@ -41,15 +41,19 @@ The server will start running locally, typically on http://localhost:3000.
 
 # Project Details
 app.js: The entry point of the application, responsible for initializing and configuring the server.
+
 app_server: Contains server-side logic, including routes, controllers, and models.
+
 bin: Holds executable scripts for the application.
+
 data: Stores JSON data files used by the application.
+
 public: Contains static files such as CSS, JavaScript, and images.
 
 # Contributing
 If you wish to contribute to this project, please follow the standard Git workflow:
-Fork the repository.
-Create a new branch (git checkout -b feature/your-feature-name).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/your-feature-name).
-Create a new Pull Request.
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/your-feature-name).
+3. Commit your changes (git commit -m 'Add some feature').
+4. Push to the branch (git push origin feature/your-feature-name).
+5. Create a new Pull Request.

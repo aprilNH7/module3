@@ -1,5 +1,3 @@
-# module3
-
 # Travlr-TemplatesJSON Project
 
 # Overview

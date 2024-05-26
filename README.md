@@ -5,13 +5,21 @@ The Travlr-TemplatesJSON project is designed to provide a template-based system 
 
 # Directory Structure
 .git: Directory containing Git version control information.
+
 .gitignore: Git configuration file to specify untracked files to ignore.
+
 app.js: Main application file for starting the server.
+
 app_server: Directory containing server-side application code.
+
 bin: Directory containing executable scripts.
+
 data: Directory containing data files.
+
 package.json: Configuration file for the Node.js application.
+
 package-lock.json: Lock file for Node.js dependencies.
+
 public: Directory containing public assets like stylesheets, scripts, and images.
 
 # Installation
